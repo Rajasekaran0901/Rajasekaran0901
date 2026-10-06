@@ -9,7 +9,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:5B2EFF,
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Data+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A7%A0;Building+Ideas+Into+Solutions+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Software+Developer+%F0%9F%92%BB;Machine+Learning+Explorer+%F0%9F%A7%A0;Building+Ideas+Into+Solutions+%F0%9F%9A%80"/>
 
 <br><br>
 
