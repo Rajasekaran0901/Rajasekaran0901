@@ -21,6 +21,10 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:5B2EFF,
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/Rajasekaran_01/">
+<img src="https://img.shields.io/badge/SOLVE-LeetCode-00d9ff?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=00d9ff" />
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge"/>
 
 </div>
